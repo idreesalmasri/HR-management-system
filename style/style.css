@@ -1,0 +1,33 @@
+
+*{
+    font-family: Verdana;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 10vh;
+    background-color: rgb(163, 241, 163);
+    text-align: center;
+}
+
+footer{
+    height: 10vh;
+    background-color: rgb(163, 241, 163);
+    text-align: center;
+    
+}
+#form {
+    height:25vh ;
+    border: 10px solid black;
+    background-color: burlywood;
+    align-content: center;
+    width: 60vh;
+}
+#main {
+    background-color: cornflowerblue;
+}
+#card{
+    flex-wrap: wrap;
+    display: flex;
+}
